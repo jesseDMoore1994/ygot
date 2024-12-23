@@ -13,7 +13,7 @@
 }:
 
 buildGoApplication {
-  pname = "myapp";
+  pname = "ygot";
   version = "0.1";
   pwd = ./.;
   src = ./.;
