@@ -2,3 +2,4 @@ vendor/*
 *.vscode*
 .vscode/*
 tags
+result
